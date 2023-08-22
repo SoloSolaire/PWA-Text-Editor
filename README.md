@@ -5,3 +5,6 @@ This repo hosts a text editor application that can create notes or code snippets
 
 ## Deployed Heroku App
 [Click here to go to the deployed app!](https://vast-spire-81604-b20889b94e2c.herokuapp.com/)
+
+## Screenshot
+![Screenshot of app](./assets/jate-ss.png)
